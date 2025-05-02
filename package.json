@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build":"npm install --prefix backend && npm install --prefix frontend/chat-app && npm run build --prefix frontend/chat-app",
+    "build":"npm install --prefix backend && npm install --prefix frontend/Chat-App && npm run build --prefix frontend/Chat-App",
     "start":"npm run start --prefix backend"
   },
   "keywords": [],
