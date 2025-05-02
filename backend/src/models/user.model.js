@@ -1,5 +1,4 @@
 import mongoose from 'mongoose'
-import { Schema } from 'yup'
 const userSchema = new mongoose.Schema(
     {
         email:{
